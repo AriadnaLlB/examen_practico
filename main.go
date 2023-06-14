@@ -14,6 +14,6 @@ func main() {
 	resultadoSuma := suma(2, 2)
 	fmt.Println("El resultado de la suma es:", resultadoSuma)
 
-	resultadoResta := resta(4, 5)
+	resultadoResta := resta(4, 8)
 	fmt.Println("El resultado de la resta es:", resultadoResta)
 }
